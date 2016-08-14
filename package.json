@@ -1,0 +1,8 @@
+{
+  "pluginInfo": {
+    "defaultConfig": {
+      "any": "information",
+      "useful": ["to", "the", "plugin"]
+    }
+  }
+}

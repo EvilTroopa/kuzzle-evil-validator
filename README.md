@@ -1,0 +1,1 @@
+# Kuzzle validation plugin by EvilTroopa
